@@ -30,22 +30,22 @@ function Login() {
 
   <div className="photo-card p1">
     <span className="candle">🕯️</span>
-    <img src={image} />
+    <img src={image} alt="Birthday memory 1" />
   </div>
 
   <div className="photo-card p2">
     <span className="candle">🕯️</span>
-    <img src={image2} />
+    <img src={image2} alt="Birthday memory 1" />
   </div>
 
   <div className="photo-card p3">
     <span className="candle">🕯️</span>
-    <img src={image3} />
+    <img src={image3} alt="Birthday memory 1"/>
   </div>
 
   <div className="photo-card p4">
     <span className="candle">🕯️</span>
-    <img src={image4} />
+    <img src={image4} alt="Birthday memory 1" />
   </div>
 
 </div>
